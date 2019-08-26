@@ -1,2 +1,2 @@
 # Competitive-Programming
-Solution to programming questions on various platform (username - abhi04code)
+Solution to programming questions on various platforms (username - abhi04code)
